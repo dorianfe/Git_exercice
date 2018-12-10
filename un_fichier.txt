@@ -1,0 +1,1 @@
+Un magnifique fichier texte, édité avec vim. Quel prouesse.
